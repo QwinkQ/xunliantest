@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="xunliantest/xunliantest.vcxproj" Id="cc6431af-8856-434f-9a3c-fb6b76de0fac" />
+</Solution>
